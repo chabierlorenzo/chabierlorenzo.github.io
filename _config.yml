@@ -23,6 +23,6 @@ github_username: chabierlorenzo
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
 
 github: [metadata]
